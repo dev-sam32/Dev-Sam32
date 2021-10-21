@@ -1,8 +1,7 @@
 Thank you for comming my Github🤗
 
 🌱 I'm currently learning :
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-Data Structures and Algorithms in Python &nbsp;
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 
 🔥 I'll learn to next :
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
