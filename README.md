@@ -22,9 +22,9 @@
 <!-- Refer : 
   https://dev.to/envoy_/150-badges-for-github-pnk 
   https://github.com/Ileriayo/markdown-badges
--->
+
   
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sam32&layout=compact)](https://github.com/dev-sam32/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Sam32&layout=compact&theme=tokyonight)]
+-->
 </div>
