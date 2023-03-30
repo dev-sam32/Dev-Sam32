@@ -1,29 +1,30 @@
-<!--
-Thank you for comming my Github🤗
+<div align="center">
+  
+## ☘️ Skills
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Spring-Boot, Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/><br>
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Amazon_AWS-EC2, S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/><br>
+  
+## 🌱 Studying
+<!-- ⚡ Database -->
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"/>
+<!-- ⚡ Database -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+<!-- ⏱️ Workflow Platforms -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
 
-🌱 Currently Studying :
-
-Data Structures and Algorithms in 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-
-Basic
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<!-- Refer : 
+  https://dev.to/envoy_/150-badges-for-github-pnk 
+  https://github.com/Ileriayo/markdown-badges
 -->
+  
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sam32&layout=compact)](https://github.com/dev-sam32/github-readme-stats)
 
-<!--🔥 Learn to next :
--->
-
-<!---
-- 👋 Hi, I’m @Dev-Sam32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-Dev-Sam32/Dev-Sam32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
